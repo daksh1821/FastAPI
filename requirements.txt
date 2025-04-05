@@ -3,3 +3,6 @@ uvicorn
 python-multipart
 opencv-python
 numpy
+paddleocr
+paddlepaddle
+python-dotenv
